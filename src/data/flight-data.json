@@ -1,0 +1,20 @@
+[
+  {
+    "origin": "Delhi (DEL)",
+    "destination": "Pune (PUN)",
+    "flight-no": "AI-202",
+    "Date": "2020-09-16",
+    "DepTime": "10.00 AM",
+    "views": "12.00 PM",
+    "fare": 4000
+  },
+  {
+    "origin": "Pune (PUN)",
+    "destination": "Delhi (DEL)",
+    "flight-no": "AI-202",
+    "Date": "2020-09-20",
+    "DepTime": "10.00 AM",
+    "views": "12.00 PM",
+    "fare": 4000
+  }
+]
