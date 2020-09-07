@@ -40,8 +40,7 @@ export default class ResultSection extends React.Component<any> {
             <div className="top-container">
               <div style={{ float: 'left' }}>
                 <h3>
-                  {this.props.searchData.searchValue.origin}
-                  {this.sign} {this.props.searchData.searchValue.destination}{' '}
+                  {this.props.searchData.searchValue.origin} {this.sign} {this.props.searchData.searchValue.destination}{' '}
                   {this.returnSearch ? (
                     <span>
                       {this.sign} {this.props.searchData.searchValue.origin}
